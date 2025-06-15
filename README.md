@@ -1,2 +1,2 @@
-# picoCTF_soln
+# picooo
 solutions and my thought process
