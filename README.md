@@ -1,2 +1,2 @@
 # picoCTF_soln
-solutinons and my thought process
+solutions and my thought process
